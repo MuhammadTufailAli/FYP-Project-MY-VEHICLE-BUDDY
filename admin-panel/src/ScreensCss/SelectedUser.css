@@ -1,0 +1,11 @@
+.UserImage {
+  margin: 20px;
+}
+.Image {
+  width: 100%;
+  height: 500px;
+  border-radius: 20px;
+}
+.ProductContainer {
+  background-color: beige;
+}

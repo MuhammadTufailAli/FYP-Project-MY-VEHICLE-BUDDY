@@ -1,0 +1,18 @@
+.conversationContainer {
+  margin: 15px;
+}
+.FriendPhoto {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.ReceivedMessage {
+  margin-left: 63px;
+  margin-top: -15px;
+  color: rgb(167, 167, 167);
+  width: 120px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
